@@ -1,6 +1,4 @@
-# Students Storm Topologies
-
-Learn to use Storm!
+# Learn Storm
 
 ---
 
